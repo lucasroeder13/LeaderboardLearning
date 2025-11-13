@@ -4,6 +4,16 @@ A real-time leaderboard system built with Spring Boot, Redis, and SQLite. This p
 
 **Project Reference:** [roadmap.sh - Realtime Leaderboard System](https://roadmap.sh/projects/realtime-leaderboard-system)
 
+## 📋 Code Review Available
+
+**A comprehensive code review has been completed for this project!** ⭐⭐⭐⭐ (4/5 stars)
+
+- 📖 **[CODE_FEEDBACK.md](./CODE_FEEDBACK.md)** - Complete detailed analysis (650+ lines)
+- ⚡ **[FEEDBACK_SUMMARY.md](./FEEDBACK_SUMMARY.md)** - Quick reference guide
+- 💡 **[HOW_TO_USE_FEEDBACK.md](./HOW_TO_USE_FEEDBACK.md)** - Implementation guide
+
+**Key findings:** 5 security issues, 6 code quality improvements, 3 performance optimizations, and comprehensive recommendations for testing and architecture improvements.
+
 ## Features
 
 - 🔐 **JWT Authentication** - Secure user authentication and authorization
